@@ -1,2 +1,2 @@
 # infoharvest-extension
-Set InfoHarvest as your default new tab page for a seamless browsing experience.
+Set [InfoHarvest](https://github.com/dafengzhen/infoharvest) as your default new tab page for a seamless browsing experience.
